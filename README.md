@@ -8,11 +8,11 @@ Je suis Data Scientist freelance passionné avec 3 années d'expérience. J'ai t
 - **Email**: datawinston75@gmail.com
 - **LinkedIn**: https://www.linkedin.com/in/leawinston
 
-[En savoir plus sur mes compétence et mon parcours](comp.md)
-[En savoir plus sur mes projets en tant que freelance](projects.md)
+## Plus de rensignements :  
 
-
-
+- [En savoir plus sur mes compétences et mon parcours](comp.md)
+- [En savoir plus sur mes collaborations en tant que freelance](projects.md)
+- [En savoir plus sur mes réalisations universitaires et personnels](projects.md)
 
 ## Services
 Je propose les services suivants :
