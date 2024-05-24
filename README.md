@@ -10,6 +10,8 @@ Je suis un Data Scientist freelance passionné avec 3 années d'expérience. J'a
 - **Email**: datawinston75@gmail.com
 - **LinkedIn**: https://www.linkedin.com/in/leawinston
 
+  [En savoir plus sur mes projets](projects.md)
+
 ## Compétences
 
 ### Langages de Programmation
@@ -25,6 +27,11 @@ Je suis un Data Scientist freelance passionné avec 3 années d'expérience. J'a
 - **Visualisation de données et reporting**
 - **Traitement du langage naturel (NLP)**
 
+  ### Diplomes
+  - Master 2 Modélisation Statistique, Economique et Fianacière - Data science, Panthéon Sorbonne
+  - Master 1 Econométrie et statistique, Panthéon Sorbonne
+  - Licence Mathématique - technique statistique, Paris Descartes
+  - DUT Statistique et informatique décisionelle, Paris Desartes
 
 ## Services
 Je propose les services suivants :
