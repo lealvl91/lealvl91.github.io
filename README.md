@@ -12,7 +12,7 @@ Je suis Data Scientist freelance passionné avec 3 années d'expérience. J'ai t
 
 - [En savoir plus sur mes compétences et mon parcours](comp.md)
 - [En savoir plus sur mes collaborations en tant que freelance](projects.md)
-- [En savoir plus sur mes réalisations universitaires et personnels](projects.md)
+- [En savoir plus sur mes réalisations universitaires et personnels](rea.md)
 
 ## Services
 Je propose les services suivants :
