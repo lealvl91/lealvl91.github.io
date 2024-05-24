@@ -10,7 +10,7 @@ Je suis un Data Scientist freelance passionné avec 3 années d'expérience. J'a
 - **Email**: datawinston75@gmail.com
 - **LinkedIn**: https://www.linkedin.com/in/leawinston
 
-  [En savoir plus sur mes projets](projects.md)
+[En savoir plus sur mes projets](projects.md)
 
 ## Compétences
 
@@ -43,4 +43,4 @@ Je propose les services suivants :
 - Nettoyage de données
 - Formation aux langage de programmation python et R
 
-**Pour me contacter**: datawinston75@gmail.com ou via https://www.linkedin.com/in/leawinston (Lien vers votre profil LinkedIn).
+**Pour me contacter**: datawinston75@gmail.com ou via [LinkedIn](https://www.linkedin.com/in/leawinston) .
